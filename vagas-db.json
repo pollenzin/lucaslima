@@ -1,0 +1,27 @@
+{
+	"vagas": [{
+
+			"id": 1,
+			"nome": "Desenvolver Front End",
+			"foto": "foto1.jpg",
+			"descricao": "Trabalhar com Ancular",
+			"salari": 2000
+		},
+
+		{
+			"id": 2,
+			"nome": "Desenvolver back End",
+			"foto": "foto2.jpg",
+			"descricao": "Trabalhar com Ancular",
+			"salari": 5000
+		},
+
+		{
+			"id": 3,
+			"nome": "Desenvolver Banco de Dados",
+			"foto": "foto3.jpg",
+			"descricao": "Trabalhar com Ancular",
+			"salari": 2500
+		}
+	]
+}
